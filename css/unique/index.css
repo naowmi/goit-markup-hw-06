@@ -1,0 +1,14 @@
+/** BASE */
+@import "../base/common.css";
+
+/** UNIQUE */
+@import "./container.css";
+@import "./visually-hidden.css";
+/** TECHNICAL */
+@import "../technical/header.css";
+@import "../technical/hero-section.css";
+@import "../technical/advantages.css";
+@import "../technical/our-team.css";
+@import "../technical/our-portfolio.css";
+@import "../technical/footer-section.css";
+@import "../technical/backdrop.css";
